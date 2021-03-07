@@ -24,7 +24,7 @@
     opacity: 0;
     z-index: -1;
     position: fixed;
-    top: 3.75rem;
+    top: 0;
     right: 0;
     bottom: 0;
     left: 0;
@@ -32,7 +32,11 @@
   }
 
   nav {
-    padding: 1.0625rem 1.5rem;
+    position: relative;
+    background-color: $white;
+    padding-top: 1.0625rem;
+    padding-bottom: 1.0625rem;
+    z-index: 10;
   }
 
   &__logo {
@@ -55,6 +59,25 @@
       &:not(:last-child) {
         margin-bottom: 5px;
       }
+    }
+  }
+
+  &__menu {
+    position: absolute;
+    width: calc(100% - 3rem);
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 1.5rem;
+    padding: 1.625rem;
+    background: $white;
+    border-radius: 5px;
+    z-index: 2;
+
+    a {
+      display: block;
+      padding: 0.625rem;
+      color: $darkBlue;
+      text-align: center;
     }
   }
 
