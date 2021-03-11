@@ -12,7 +12,7 @@ You can find a preview of the design here: [preview](https://easybankproject.net
 
 The design of this website is provided by [frontEnd Mentor](https://www.frontendmentor.io/).
 
-This website allow developper to use design ready to code. I coded the website by myself.
+This website allows developers to use design ready to code. I coded the website by myself.
 
 ## Technologies
 
@@ -23,4 +23,4 @@ This website allow developper to use design ready to code. I coded the website b
 Javascript has only a secondary place in this project. I only use it to open and close the hamburger menu.
 The difficulty is in the integration of the design and its responsive side.
 
-The site is responsive for desktop, tablet and mobile.
+The site is responsive for desktop, tablet, and mobile.
