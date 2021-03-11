@@ -829,7 +829,7 @@ button:hover::before,
 .footer__copyright {
   font-size: 0.8125rem;
   color: #9698a6;
-  max-width: 60%;
+  text-align: center;
 }
 
 .footer__copyright a {
