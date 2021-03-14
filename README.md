@@ -10,7 +10,7 @@ You can find a preview of the design here: [preview](https://easybankproject.net
 
 ## General
 
-The design of this website is provided by [frontEnd Mentor](https://www.frontendmentor.io/).
+The design of this website is provided by [FrontEnd Mentor](https://www.frontendmentor.io/).
 
 This website allows developers to use design ready to code. I coded the website by myself.
 
